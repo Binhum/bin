@@ -18,7 +18,6 @@ body{
 
 nav ul {
     display: flex;
-    gap: 54px;
     height: 50px;
     border-bottom: 5px solid black;
     justify-content: space-evenly;
